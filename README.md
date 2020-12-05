@@ -1,2 +1,1 @@
-# TinDog
-Dating app skeleton
+TinDog Starting Files
